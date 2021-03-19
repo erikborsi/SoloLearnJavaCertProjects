@@ -13,6 +13,7 @@ hs_err_pid*
 ## Maven
 ##############################
 target/
+pom.xml
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -82,4 +83,6 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
+
+vpproject/
 
